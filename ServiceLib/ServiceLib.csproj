@@ -5,8 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Services\Interfaces\" />
-    <Folder Include="Services\Implementations\" />
     <Folder Include="Shared\Models\" />
     <Folder Include="Shared\Enums\" />
     <Folder Include="Shared\Extensions\" />
