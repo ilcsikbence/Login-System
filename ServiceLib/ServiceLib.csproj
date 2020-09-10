@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Services\Interfaces\" />
+    <Folder Include="Services\Implementations\" />
+    <Folder Include="Shared\Models\" />
+    <Folder Include="Shared\Enums\" />
+    <Folder Include="Shared\Extensions\" />
+  </ItemGroup>
+
+</Project>
